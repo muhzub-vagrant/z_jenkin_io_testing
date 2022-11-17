@@ -8,10 +8,6 @@ pipeline {
             echo 'Hello World'
             }
 
-    }
-<<<<<<< HEAD:Jenkinsfile
-}
-=======
+        }
     }
 }
->>>>>>> 654313a (update):jenkinsfile
