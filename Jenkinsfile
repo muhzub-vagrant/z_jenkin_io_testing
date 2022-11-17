@@ -8,7 +8,7 @@ pipeline {
             
 
             steps {
-                DeleteDir()
+//                DeleteDir()
                 echo "Hello World"
 
 
