@@ -2,8 +2,11 @@ pipeline {
     agent any
 
     stages {
-        deletedir()
+        
         stage('hello_World_stage') {
+            DeleteDir()
+            
+
             steps {
                 echo "Hello World"
 
