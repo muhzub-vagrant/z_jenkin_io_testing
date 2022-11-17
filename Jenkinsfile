@@ -7,15 +7,9 @@ pipeline {
             steps {
                 echo "Hello World"
 
-<<<<<<< HEAD
+
             }
         }
     }
-<<<<<<< HEAD:Jenkinsfile
 }
-=======
-=======
-        }
->>>>>>> 4491a06 (update)
-    }
-}
+
