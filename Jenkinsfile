@@ -10,4 +10,9 @@ pipeline {
             }
         }
     }
+<<<<<<< HEAD:Jenkinsfile
 }
+=======
+    }
+}
+>>>>>>> 654313a (update):jenkinsfile
